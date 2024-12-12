@@ -1,0 +1,6 @@
+path: ~\Plane200
+train: images\train
+val: images\train
+
+names:
+  0: Plane
